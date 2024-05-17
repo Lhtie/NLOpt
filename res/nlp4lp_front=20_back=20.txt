@@ -1,0 +1,50 @@
+introduction to linear optimization
+1
+2 wa
+3 model
+4 
+6 wa
+8 wa
+9
+10 re
+11 wa
+12 wa
+13 
+14 wa
+16 wa
+17 wa
+lectures in lp modeling
+1 
+2
+3
+4 wa
+5 
+6 re
+7 wa
+8 wa
+9 wa
+10 re
+11 wa
+linear and convex optimization
+1 wa
+2 wa
+3 wa
+4 wa
+5 wa
+6 wa
+7 wa
+8 wa
+9 wa
+10
+model building in mathematical programming
+1 re
+2 re
+3 re
+4 wa
+7 re
+8 re
+9 re
+10 wa
+11 wa
+12 re
+13 re
